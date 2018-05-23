@@ -1,2 +1,5 @@
 # ignore the build executable
 *.exe
+
+#
+*.glade~
